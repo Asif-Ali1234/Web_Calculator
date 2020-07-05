@@ -1,4 +1,4 @@
 # Web_Calculator
-This is the Web Calculator Designed For Calculations
+This is the Web Calculator Designed For Small Calculations.
 
-It can Calculate the Equations In BRODMAS Format...
+It can calculate the mathematical equations in BRODMAS format.......
